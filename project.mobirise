@@ -37,9 +37,9 @@
     "imageResize": true,
     "favicon": false,
     "robotsSwitcher": false,
-    "sitemapSwitcher": false,
+    "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
-    "siteUrl": false,
+    "siteUrl": "https://pasiekamellarius.github.io",
     "cookiesAlert": false,
     "gdpr": false,
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n"
