@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "pasieka &quot;Mellarius&quot;",
+    "name": "pasieka ",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -34,7 +34,15 @@
     "siteFonts": [],
     "uniqCompNum": 21,
     "versionPublish": "4.12.1",
-    "imageResize": true
+    "imageResize": true,
+    "favicon": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": "on",
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false,
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n"
   },
   "pages": {
     "index.html": {
